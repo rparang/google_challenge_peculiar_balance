@@ -12,9 +12,9 @@ second element to the 3-unit weight, and so on. Each string is one of:
 "-" : do not use weight
 
 ## Usage example
-`answer(546); // ["-", "L", "R", "L", "R", "L", "R"]`
-`answer(8); // ["L", "-", "R"]`
-`answer(34534); // ["R", "-", "-", "R", "-", "R", "L", "R", "L", "L", "R"]`
+* `answer(546); // ["-", "L", "R", "L", "R", "L", "R"]`
+* `answer(8); // ["L", "-", "R"]`
+* `answer(34534); // ["R", "-", "-", "R", "-", "R", "L", "R", "L", "L", "R"]`
 
 A write-up of the solution is [here][1].
 
