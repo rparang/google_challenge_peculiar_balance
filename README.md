@@ -7,9 +7,9 @@ side of the scale.
 The first element of the output list corresponds to the 1-unit weight, the
 second element to the 3-unit weight, and so on. Each string is one of: 
 
-"L" : put weight on left-hand side 
-"R" : put weight on right-hand side 
-"-" : do not use weight
+* "L" : put weight on left-hand side 
+* "R" : put weight on right-hand side 
+* "-" : do not use weight
 
 ## Usage example
 * `answer(546); // ["-", "L", "R", "L", "R", "L", "R"]`
